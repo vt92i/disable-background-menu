@@ -2,5 +2,7 @@
   "name": "Disable Background Menu",
   "description": "Disable Background Menu",
   "uuid": "disable-background-menu@vt92i.dev",
-  "shell-version": ["49"]
+  "url": "https://github.com/vt92i/disable-background-menu",
+  "shell-version": ["49"],
+  "version": 1
 }
